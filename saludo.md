@@ -30,6 +30,15 @@ Para mas información [consulte aquí](https://www.wikipedia.org/)
 - Tres
 - Cuatro
 
-1. Uno
-1. Tres
-1. Dos
+1. Uno [ ]
+    - anidadas
+    - listas
+1. Tres [ ]
+1. Dos [ ]
+
+| Nombre | Nota |
+| --- | --- |
+| Pepe | 3.5 |
+| Juan | 2.5 |
+| Luis | 4.5 |
+
